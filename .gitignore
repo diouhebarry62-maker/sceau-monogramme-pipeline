@@ -1,0 +1,13 @@
+# données et poids : non versionnés (corpus BHAI, droits des collections)
+data/
+images/
+labels/
+splits/
+runs/
+results/
+_tmp_fold_*/
+*.pt
+*.pth
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
